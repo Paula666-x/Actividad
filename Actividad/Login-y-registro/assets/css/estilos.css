@@ -132,7 +132,9 @@ main{
 .formulario__register{
     display: none;
 }
-
+.formulario__login__entrar{
+    color: #FFF;
+}
 @media screen and (max-width: 850px){
 
     main{
